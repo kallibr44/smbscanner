@@ -65,8 +65,6 @@ done
 echo "Removing temp files"
 rm /root/TEMP.txt
 echo " /root/TEMP.txt"
-rm /q.txt
-echo " /root/q.txt"
 echo "IP added to scan! & ready to Scanning!"
 sleep 2
 echo
