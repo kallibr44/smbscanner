@@ -21,8 +21,7 @@ P.S. sorry for my English, it bad because i'm from Russia :)
 
 FUTURE:
 
-1.Checking for need packets
-
-2.Checking correctly writing IP adresses
-
-3. Auto-installing metasploit on all Linux-based systems.
+1. Auto-update script
+2.Checking for need packets
+3.Checking correctly writing IP adresses
+4. Auto-installing metasploit on all Linux-based systems.
